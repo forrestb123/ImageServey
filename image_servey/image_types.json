@@ -1,0 +1,16 @@
+{
+    "total_images": 0,
+    "total_real_images": 0,
+    "total_fake_images": 0,
+    "types": [
+        "image/jpeg",
+        "image/png",
+        "image/gif"
+    ],
+    "real_styles": [
+        "baroque",
+    ],
+    "fake_styles": [
+        
+    ]
+}
